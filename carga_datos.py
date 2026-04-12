@@ -12,7 +12,7 @@ def parsear_linea(linea):
     
     campos = linea.strip().split(",")
     
-    id_partiicpante = int(campos[0])
+    id_participante = int(campos[0])
     fecha = campos[1].strip()
     app = campos[2].strip()
     cant_uso = int(campos[3])
