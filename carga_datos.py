@@ -93,7 +93,7 @@ Lista a cargar con los diccionarios.
 registro_participante: dicc
 Diccionario con los datos de cada usuario.
 id_participante: int
-Numero que reconoce al usuario y su informacion.
+Numero que reconoce al usuario y la informacion del usuario.
 Fecha: str
 
 app: str
